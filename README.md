@@ -68,13 +68,15 @@ That’s all about me. Thank you!
 
 ## 📊 GitHub Analytics
 
-![OmmPrakash-07 GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmmPrakash-07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-07&layout=compact&theme=radical)
+![Priya-git2005 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-git2005&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-git2005&layout=compact&theme=radical)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmmPrakash-07&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Priya-git2005&theme=radical" alt="GitHub Streak" />
 </p>
 
-![OmmPrakash-07's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-07&theme=github-compact)
+![Priya-git2005's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-git2005&theme=github-compact)
+
 
 
 ---
@@ -82,9 +84,8 @@ That’s all about me. Thank you!
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omm-prakash-parida/)
-[![Twitter/X](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Ommprakash2005/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/genius_omm/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ommprakashparida114@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/priiiyaaa.ly/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:plaxmipriya885@gmail.com)
 
 ---
 
