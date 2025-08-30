@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-My name is Laxmipriya parida, and I’m from Puri, Odisha, India. I have completed my higher secondary from Nilachal Polytechnic and am currently pursuing my B.Tech at Gandhi Engineering College (GEC Autonomous), Bhubaneswar.
+My name is Laxmipriya parida, and I’m from Puri, Odisha, India. I have completed my Higher Secondary from Nilachal Polytechnic and am currently pursuing my B.Tech at Gandhi Engineering College (GEC Autonomous), Bhubaneswar.
 
 I come from a nuclear family. My hobbies include playing games and listening to music.
 I am a hardworking, self-motivated individual with strong communication skills. I am also a quick learner, always eager to grow and take on new challenges.
