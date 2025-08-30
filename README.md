@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Omm Prakash Parida</h1>
+<h1 align="center">👋 Hi there, I'm Laxmipriya Parida</h1>
 
 ॥ अंतः अस्ति प्रारंभः ॥ अंत से ही एक नई शुरुआत होती ! The end is the beginning.
 
@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-My name is Omm Prakash Parida, and I’m from Cuttack, Odisha, India. I have completed my diploma from Nilachal Polytechnic and am currently pursuing my B.Tech at Gandhi Engineering College (GEC Autonomous), Bhubaneswar.
+My name is Laxmipriya parida, and I’m from Puri, Odisha, India. I have completed my higher secondary from Nilachal Polytechnic and am currently pursuing my B.Tech at Gandhi Engineering College (GEC Autonomous), Bhubaneswar.
 
 I come from a nuclear family. My hobbies include playing games and listening to music.
 I am a hardworking, self-motivated individual with strong communication skills. I am also a quick learner, always eager to grow and take on new challenges.
